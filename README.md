@@ -1,8 +1,8 @@
 
 
  <div id="header" align="center">
- <h1></h1><br>
-  <h1> Hi there 👋, I'm Ghanasham </h1>
+ <h1></h1>
+  <h1> Hi there 👋, I'm Ghanasham <br></h1>
   
  
  
@@ -16,7 +16,7 @@
  </a>
  
 
- <h1></h1><br><h2>Bio </h2><br>
+ <h1></h1><h2>Bio <br></h2><br>
 </div>
 <br>
  
@@ -25,8 +25,8 @@
 - 🌱 I’m currently learning JAVA, ML, Android Studio, etc.<br>
 - 💬 Thanks for visiting my Profile <br>
 
- <h1></h1><br>
-<h2> GITHUB STATS </h2><br>
+ <h1></h1>
+<h2> GITHUB STATS <br></h2><br>
   
  <br>
  
