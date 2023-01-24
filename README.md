@@ -8,7 +8,7 @@
  
   <img src="https://github.com/salunkhegr1712/salunkhegr1712/blob/main/ghansham.png" width="200"/> <br>
  <a href="https://twitter.com/GhanashamSalun1" target="_blank">
- <img src="https://github.com/salunkhegr1712/salunkhegr1712/blob/main/linkedin.png" width="10/>
+ <img src="https://github.com/salunkhegr1712/salunkhegr1712/blob/main/linkedin.png" width="10"/>
 </a>
  <a href="https://www.linkedin.com/in/ghanasham-salunkhe-70b607204/" target="_blank">
   <img src="https://github.com/salunkhegr1712/salunkhegr1712/blob/main/linkedin.png" width="10/>
