@@ -18,10 +18,10 @@
 
 
 <h1></h1>
-<h1></h1>
+<h1>CODING SKILLS :</h1>
 
 <br><br>
 
-	&nbsp	&nbsp	&nbsp	&nbsp	&nbsp	&nbsp	&nbsp ![Ghansham's github stats](https://github-readme-stats.vercel.app/api?username=salunkhegr1712&count_private=true&show_icons=true&theme=radical&hide_rank=false)
+![Ghansham's github stats](https://github-readme-stats.vercel.app/api?username=salunkhegr1712&count_private=true&show_icons=true&theme=radical&hide_rank=false)
    
 
