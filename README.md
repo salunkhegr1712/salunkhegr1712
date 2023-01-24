@@ -19,6 +19,6 @@
   
  <br>
  
- ![Ghansham's GitHub stats](https://github-readme-stats.vercel.app/api?username=salunkhegr1712)](https://github.com/salunkhegr1712/github-readme-stats)
+ ![Ghansham's GitHub stats](https://github-readme-stats.vercel.app/api?username=salunkhegr1712)
 </div>
 
