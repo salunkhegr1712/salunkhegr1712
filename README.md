@@ -5,7 +5,7 @@
   <h1> Hi there 👋, I'm Ghansham </h1>
  
   <img src="https://github.com/salunkhegr1712/salunkhegr1712/blob/main/ghansham.png" width="200"/>
- <h1></h1><h1>Bio</h1>
+ <h1></h1><h2>Bio</h2>
 </div>
 <br>
  
@@ -15,7 +15,7 @@
 - 💬 Thanks for visiting my Profile <br>
 
  <h1></h1>
-<h1>GITHUB STATS :</h1>
+<h2>GITHUB STATS :</h2>
   
  <br>
 
