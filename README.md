@@ -14,8 +14,8 @@
 - 💬 Thanks for visiting my Profile <br>
 
  <h1></h1>
-<h1></h1>
-  GITHUB STATS :
+<h1>GITHUB STATS :</h1>
+  
  <br>
 
 ![Ghansham's github stats](https://github-readme-stats.vercel.app/api?username=salunkhegr1712&count_private=true&show_icons=true&theme=radical&hide_rank=false)
