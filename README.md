@@ -19,9 +19,9 @@
   
  <br>
  
- ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=salunkhegr1712)<br>
+ ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=salunkhegr1712&layout=compact&theme=dracula)<br>
 
- ![Ghansham's GitHub stats](https://github-readme-stats.vercel.app/api?username=salunkhegr1712&theme=dracula&layout=compact)
+ ![Ghansham's GitHub stats](https://github-readme-stats.vercel.app/api?username=salunkhegr1712)
  
 
 </div>
