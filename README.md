@@ -3,12 +3,9 @@
  <div id="header" align="center">
   <h1> Hi there 👋, I'm Ghansham </h1>
   <img src="https://github.com/salunkhegr1712/salunkhegr1712/blob/main/ghansham.png" width="200"/>
- <h1></h1>
+ <h1></h1><h1></h1>
 </div>
- 
- 
- 
- 
+<br><br>
  
 - 🔭 I'm currently studying in College of Engineering, Pune.
 - 🌱 I’m currently learning JAVA, ML, Android Studio, etc.
