@@ -1,10 +1,11 @@
 
 
  <div id="header" align="center">
-  <h1> Hi there 👋, I'm Ghansham </h1>
  <h1></h1>
+  <h1> Hi there 👋, I'm Ghansham </h1>
+ 
   <img src="https://github.com/salunkhegr1712/salunkhegr1712/blob/main/ghansham.png" width="200"/>
- <h1></h1><h1></h1>
+ <h1></h1><h1>Bio</h1>
 </div>
 <br>
  
