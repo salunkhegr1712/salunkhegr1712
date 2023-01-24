@@ -3,6 +3,22 @@
  <div id="header" align="center">
  <h1></h1>
   <h1> Hi there 👋, I'm Ghanasham </h1>
+  
+ <a href="https://github.com/salunkhegr1712/github-readme-stats/actions">
+      <img alt="Tests Passing" src="https://github.com/salunkhegr1712/github-readme-stats/workflows/Test/badge.svg" />
+    </a>
+    <a href="https://github.com/salunkhegr1712/github-readme-stats/graphs/contributors">
+      <img alt="GitHub Contributors" src="https://img.shields.io/github/contributors/salunkhegr1712/github-readme-stats" />
+    </a>
+    <a href="https://codecov.io/gh/salunkhegr1712/github-readme-stats">
+      <img src="https://codecov.io/gh/salunkhegr1712/github-readme-stats/branch/master/graph/badge.svg" />
+    </a>
+    <a href="https://github.com/salunkhegr1712/github-readme-stats/issues">
+      <img alt="Issues" src="https://img.shields.io/github/issues/salunkhegr1712/github-readme-stats?color=0088ff" />
+    </a>
+    <a href="https://github.com/salunkhegr1712/github-readme-stats/pulls">
+      <img alt="GitHub pull requests" src="https://img.shields.io/github/issues-pr/salunkhegr1712/github-readme-stats?color=0088ff" />
+    </a>
  
   <img src="https://github.com/salunkhegr1712/salunkhegr1712/blob/main/ghansham.png" width="200"/> <br>
  <a href="https://twitter.com/GhanashamSalun1" target="_blank">twitter<i class="nothing fa fa-twitter fa"></i></a>
