@@ -33,6 +33,8 @@
  ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=salunkhegr1712&layout=compact&theme=dracula)<br>
 
  ![Ghansham's GitHub stats](https://github-readme-stats.vercel.app/api?username=salunkhegr1712)
+ ![](https://raw.githubusercontent.com/salunkhegr1712/github-stats/master/generated/overview.svg#gh-dark-mode-only)
+
  
 
 </div>
