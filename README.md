@@ -18,7 +18,6 @@
 <h2>--------------------- GITHUB STATS ---------------------</h2>
   
  <br>
- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true)]
  [![Ghansham's GitHub stats](https://github-readme-stats.vercel.app/api?username=salunkhegr1712)](https://github.com/salunkhegr1712/github-readme-stats)
 </div>
 
