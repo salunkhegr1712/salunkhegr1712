@@ -3,7 +3,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=salunkhegr1712)]
 
 
-[![Khuyen's github stats](https://github-readme-stats.vercel.app/api?username=salunkhegr1712&count_private=true&show_icons=true&theme=radical&hide_rank=false)]
+[![Ghansham's github stats](https://github-readme-stats.vercel.app/api?username=salunkhegr1712&count_private=true&show_icons=true&theme=radical&hide_rank=false)]
 
 <!--
 **salunkhegr1712/salunkhegr1712** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
