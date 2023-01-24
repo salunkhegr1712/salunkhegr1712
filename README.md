@@ -1,8 +1,5 @@
 ### Hi there 👋
 
-
-
-Here are some ideas to get you started:
  
 - 🔭 I'm currently studying in College of Engineering, Pune.
 - 🌱 I’m currently learning JAVA, ML, Android Studio, etc.
