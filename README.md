@@ -18,9 +18,7 @@
 <h2>--------------------- GITHUB STATS ---------------------</h2>
   
  <br>
-
-![Ghanasham's github stats](https://github-readme-stats.vercel.app/api?username=salunkhegr1712&count_private=true&show_icons=true&theme=radical&hide_rank=false)
-
+ ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true)
  [![Ghansham's GitHub stats](https://github-readme-stats.vercel.app/api?username=salunkhegr1712)](https://github.com/salunkhegr1712/github-readme-stats)
 </div>
 
