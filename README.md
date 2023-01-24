@@ -1,7 +1,7 @@
 
 
  <div id="header" align="center">
-  <h1> Hi there 👋</h1>
+  <h1> Hi there 👋, I'm Ghansham </h1>
   <img src="https://github.com/salunkhegr1712/salunkhegr1712/blob/main/Hotpot.png" width="200"/>
  <h1></h1>
 </div>
