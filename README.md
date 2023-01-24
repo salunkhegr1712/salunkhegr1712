@@ -6,7 +6,7 @@
   <img src="https://github.com/salunkhegr1712/salunkhegr1712/blob/main/ghansham.png" width="200"/>
  <h1></h1><h1></h1>
 </div>
-<br><br>
+<br>
  
  <div align="center">
 - 🔭 I'm currently studying in College of Engineering, Pune.<br>
