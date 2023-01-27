@@ -29,8 +29,7 @@
 <h2> GITHUB STATS <br></h2><br>
   
  <br>
- [](https://raw.githubusercontent.com/salunkhegr1712/github-stats/master/generated/languages.svg#gh-dark-mode-only)
- [](https://raw.githubusercontent.com/salunkhegr1712/github-stats/master/generated/overview.svg#gh-dark-mode-only)
-
+ <img src="https://github.com/salunkhegr1712/github-stats/blob/master/generated/languages.svg"/>
+ <img src="https://github.com/salunkhegr1712/github-stats/blob/master/generated/overview.svg"/>
 </div>
 
