@@ -1,0 +1,45 @@
+1. Gained deep insights into M3F operational flows and dependencies, including components like overshoot calculator, Opal, extractor processor, loader, normalizer, Syncop, datalake model, and API connectors.  
+
+2. Developed technical expertise in technologies such as Spring Boot, AKS, HDI clusters, Kafka, EventHub, storage accounts, and key vaults.  
+
+3. Worked extensively on the overshoot provisioning engine, contributing to cluster migration, overshoot calculations, technical cleanups, and metric framework migration.  
+
+4. Delivered projects involving new overshoot computations, EventHub migration, and Materiality Threshold (MT) calculations.  
+
+5. Successfully implemented projects related to OPAL extraction and processing with updated overshoot computations.  
+
+6. Gained exposure to reporting applications and their integration.  
+
+7. Acquired knowledge of PRC limits, risk types, and models stored in the Data Lake through the Limit Management project.  
+
+8. Attended informative sessions with ARC and CCR teams, enhancing understanding of limit scopes and significance.  
+
+9. Completed extensive training in Azure cloud services, including HDI clusters, AKS, Databricks, and Spark technologies.  
+
+10. Participated in A2-204 certification training, gaining insights into storage accounts, web apps, DevOps, and Data Lake management.  
+
+11. Attended internal sessions and technical discussions on CCR topics and emerging developments.  
+
+12. Designed thorough TDDs covering all scenarios, enhancing functional understanding and optimizing code.  
+
+13. Followed best practices for coding quality, using tools like Sonar to address code smells, coverage, and bugs, ensuring efficient and optimized code delivery.  
+
+14. Delivered projects within agreed timelines and budgets, providing high-quality, fault-free, and optimized code.  
+
+15. Effectively managed JIRA boards, updated statuses promptly, and adhered to Agile practices to improve productivity and meet deadlines.  
+
+16. Actively participated in Scrum ceremonies and followed Agile-at-scale methodologies.  
+
+17. Worked closely with the production support team to monitor and resolve CMFST chain issues, automate updates, and address impediments.  
+
+18. Maintained effective communication with counterparts and business users, bridging technical gaps and building strong relationships.  
+
+19. Attended various technical sessions on updates like STT CMFST, Warthog, and Spark sessions, gaining valuable insights.  
+
+20. Acknowledged the importance of hackathons and plans to actively participate in future events for personal and professional growth.  
+
+21. Identified opportunities for code optimization and quality improvement in the CMFST chain, contributing to team innovation and efficiency.  
+
+22. Demonstrated expertise in Java, Spring Boot, UNIX, RESTful services, Spark, and API integrations, delivering quality solutions across various projects.  
+
+23. Improved functional understanding and development efficiency through continuous learning, TDD/BDD practices, and hands-on experience with critical technologies.
