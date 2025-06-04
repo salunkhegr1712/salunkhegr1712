@@ -8,9 +8,6 @@
  
   <img src="https://github.com/salunkhegr1712/salunkhegr1712/blob/main/ghansham-new.png" width="200"/> <br>
  <br>
- <a href="https://twitter.com/GhanashamSalun1" target="_blank">
- <img src="https://github.com/salunkhegr1712/salunkhegr1712/blob/main/twitter.png" width="40"/>
-</a>
  <a href="https://www.linkedin.com/in/ghanasham-rajaram-salunkhe-70b607204/" target="_blank">
   <img src="https://github.com/salunkhegr1712/salunkhegr1712/blob/main/linkedin.png" width="40"/>
  </a>
