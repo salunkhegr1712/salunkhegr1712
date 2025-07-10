@@ -6,9 +6,9 @@
 <br>
  
  <div align="center">
-- 🔭 I'm currently studying in College of Engineering, Pune.<br>
-- 🌱 I’m currently learning JAVA, ML, Android Studio, etc.<br>
-- 💬 Thanks for visiting my Profile <br>
+- 🔭 I'm currently working in SGGSC Banglore as Java Fullstack Data Engineer<br>
+- 🌱 My technology stack includes Azure Web Services, Java Spring Boot, Angular, React, and Apache Spark. etc.<br>
+- 💬 Thanks for visiting my Profile, Have a good day!!! <br>
 
  <h1></h1>
 <h2> GITHUB STATS <br></h2><br>
