@@ -1,7 +1,6 @@
 
 
  <div id="header" align="center">
- <h1></h1>
  <h1></h1><h2>Bio <br></h2><br>
 </div>
 <br>
