@@ -3,11 +3,10 @@
  <div id="header" align="center">
  <h1></h1><h2>Bio <br></h2><br>
 </div>
-<br>
  
  <div align="center">
 - 🔭 I'm currently working in SGGSC Banglore as Java Fullstack Data Engineer<br>
-- 🌱 My technology stack includes Azure Web Services, Java Spring Boot, Angular, React, and Apache Spark. etc.<br>
+- 🌱 My technology stack includes Azure Cloud, Java Spring Boot, Apache Spark, Angular, etc.<br>
 - 💬 Thanks for visiting my Profile, Have a good day!!! <br>
 
  <h1></h1>
