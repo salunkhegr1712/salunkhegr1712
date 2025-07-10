@@ -2,16 +2,10 @@
 
  <div id="header" align="center">
  <h1></h1>
-  <h1> Hi there 👋, I'm Ghanasham <br></h1>
-  
- 
- 
-  <img src="https://github.com/salunkhegr1712/salunkhegr1712/blob/main/ghansham-new.png" width="200"/> <br>
- <br>
+
  <a href="https://www.linkedin.com/in/ghanasham-rajaram-salunkhe-70b607204/" target="_blank">
   <img src="https://github.com/salunkhegr1712/salunkhegr1712/blob/main/linkedin.png" width="40"/>
- </a>
- 
+ </a> 
 
  <h1></h1><h2>Bio <br></h2><br>
 </div>
